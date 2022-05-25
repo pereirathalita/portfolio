@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    /*color: #FF67RR */
+    font-family: 'Poppins', sans-serif;;
+}
+
+ul {
+    list-style: none;
+    font-style: italic;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 700;
+}
+
+body {
+    /* background-image: url(./pexels-zaksheuskaya-1561020.jpg);
+    background-repeat: no-repeat;
+    background-position: center center fixed;
+    background-size: cover; */
+
+    background: linear-gradient(90deg, #FFFFFF, #FC67FA);
+}
+
+.container {
+    text-align: center;
+}
+
+.container .name h1 {
+    font-size: 60px;
+}
+
+.container .name h5 {
+    font-size: 30px;
+}
