@@ -25,6 +25,14 @@ body {
     background: linear-gradient(90deg, #FFFFFF, #FC67FA);
 }
 
+header {
+    display: flex;
+}
+
+header ul {
+    display: flex;
+}
+
 .container {
     text-align: center;
 }
